@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenOffAnimation</string>
+    <string name="app_info">Анимация выключения экрана. Автор:(zst123) Перевод: Gromozavr Stas</string>
+    <string name="error_animating">"Ошибка при использовании текущей анимации. 
+Xposed Журнал был создан."</string>
+    <string name="menu_reset_settings_title">Сбросить все</string>
+    <string name="menu_reset_settings_dialog">Вы действительно хотите вернуться к настройкам по умолчанию?</string>
+    <string name="xposed_disabled_title">Модуль не активен</string>
+    <string name="xposed_disabled_summary">"Модуль  не работает в настоящее время.
+	Убедитесь, что вы установили модуль в Xposed Installer и включили его."</string>
+    <string name="setting_enable">Включить</string>
+    <string name="setting_anim">Анимация</string>
+    <string name="setting_anim_off">Анимация выкл.</string>
+    <string name="setting_anim_on">Анимация вкл.</string>
+    <string name="setting_anim_button">Выбрать анимацию</string>
+    <string name="setting_speed">Скорость</string>
+    <string name="setting_preview">Просмотр</string>
+    <string name="setting_preview_button">Показать</string>
+    <string name="anim_random">Случайная</string>
+    <string name="anim_random_note">Выберите анимации используемые для случайного выбора</string>
+    <string name="anim_fade">Исчезающий</string>
+    <string name="anim_crt">CRT (горизонтальный)</string>
+    <string name="anim_crt_vertical">CRT (вертикальный)</string>
+    <string name="anim_scale_down">Масштабирование</string>
+    <string name="anim_tv_burn">Эффект TV</string>
+    <string name="anim_lgog">LG Optimus</string>
+    <string name="anim_fadetiles">Исчезающая Плитка</string>
+    <string name="anim_vertu_sig">Vertu Sig. Touch</string>
+    <string name="anim_lollipop_fade_out">Android Lollipop Fade</string>
+</resources>
